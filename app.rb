@@ -10,4 +10,3 @@ class App < Sinatra::Base
 		erb :info
 	end
 end
-

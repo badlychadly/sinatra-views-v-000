@@ -10,5 +10,4 @@ class App < Sinatra::Base
 		erb :info
 	end
 end
-# how would I implement a string that looks like html to my
-# browser without having it changed to actual html??
+
